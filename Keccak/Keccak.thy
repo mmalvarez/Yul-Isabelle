@@ -4,6 +4,7 @@ theory "Keccak"
 
 imports
   Main
+  (* HOL-Library.Word *)
   "HOL-Word.Word"
 
 begin 
